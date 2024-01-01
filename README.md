@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+This is a simple checklist application built using React. It allows users to create, manage, and track tasks in a checklist format. The application is designed to be user-friendly and responsive, providing an intuitive interface for managing tasks efficiently.
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+TECHNOLOGIES USED
+- React
+- JSX
+- SCSS
